@@ -8,15 +8,15 @@
 
 1) Отображение «П» по горизонтали:
 
-![](Assets/1.jpg)![ref1]
+![](Assets/1.jpg)
 
 2) Отображение горизонтального «П» по вертикали:
 
-![](Assets/2.jpg)![ref1]
+![](Assets/2.jpg)
 
 Таким образом, получаем следующую свертку:
 
-![](Assets/3.jpg)![ref1]
+![](Assets/3.jpg)
 
 
 ![](Aspose.Words.2671632b-f25e-4cac-a4be-ccd0d226917a.008.png)![](Aspose.Words.2671632b-f25e-4cac-a4be-ccd0d226917a.009.png)
