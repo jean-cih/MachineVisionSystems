@@ -141,13 +141,13 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 source .venv/bin/activate 
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.001.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.001.png)
 
 Также необходимо подключить внешний дисплей:
 
 export DISPLAY=127.0.0.1:0.0
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.002.png) 
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.002.png) 
 
 
 Запуск программы:
@@ -156,7 +156,7 @@ export DISPLAY=127.0.0.1:0.0
 
 Python3.12 analyzer.py
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.003.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.003.png)
 
 Открывается проводник, в котором хранятся фотографии скачанные ранее с сайта Freepik.
 
@@ -164,19 +164,19 @@ Python3.12 analyzer.py
 
 Результат:
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.004.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.004.png)
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.005.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.005.png)
 
 Посмотрим на результат других фотографий для проверки корректности работы программы:
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.006.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.006.png)
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.007.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.007.png)
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.008.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.008.png)
 
-![](Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.009.png)
+![](Assets/Aspose.Words.9ed13c4a-240e-425b-bb4d-b12b714fed74.009.png)
 
 Как мы можем видеть, программы работает корректно.
 
